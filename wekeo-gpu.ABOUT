@@ -1,0 +1,36 @@
+# Component information
+name: wekeo-gpu
+description: Compendium of training content associated to the use of the GPU resources on the WEkEO workspace.
+copyright: 2025 European Union
+license_spdx: MIT
+date: 10-10-2025
+home_url: https://gitlab.eumetsat.int/eumetlab/wekeo-tools/wekeo-gpu
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+
+# File(s) associated to this component
+
+about_resource: ./01_Introduction_to_the_WEkEO_Workspace_GPUs.ipynb
+about_resource: ./AUTHORS.txt
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./environment.yml
+about_resource: ./img/gpu-server.png
+about_resource: ./img/img-description-ollamaserve.png
+about_resource: ./img/img-description-sentinel.png
+about_resource: ./img/matrix-multiplication.png
+about_resource: ./img/nvidia-smi.png
+about_resource: ./img/nvtop.png
+about_resource: ./img/thumbs/image-description-ollama.png
+about_resource: ./img/thumbs/intro-gpu.png
+about_resource: ./img/wekeo-landing-page.png
+about_resource: ./img/wekeo-personal-dashboard.png
+about_resource: ./ollama_image_description.ipynb
+
+# Notes:
+
+The images contained in the ./img/thumbs folder are generated using the 
+matplotlib tool. The matplotlib tool does not extend its license/copyright to 
+figures produced by the package. The figures are covered by the package IPR
+documentation as specified in the license text file.

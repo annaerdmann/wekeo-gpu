@@ -7,7 +7,7 @@ WEkEO training activities.
 
 ## License
  
-This code is licensed under an GPL-3.0 license. 
+This code is licensed under an GPL-3.0-or-later license. 
 See file LICENSE.txt for details on the usage and distribution terms.
 
 All product names, logos, and brands are property of their respective owners. 
@@ -44,5 +44,5 @@ nvtop requires a linux operating system.
 |-----------|---------|--------------|----------------------------------------------------------------------|
 | python    | 3.10.1  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
 | ollama    | 0.12.2  | MIT    | [anaconda.org/conda-forge/ollama](https://anaconda.org/conda-forge/ollama)  |
-| nvtop   | 3.2.1  | GPL-3.0    | [anaconda.org/conda-forge/nvtop](https://anaconda.org/conda-forge/nvtop)  |
+| nvtop   | 3.2.1  | GPL-3.0  | [anaconda.org/conda-forge/nvtop](https://anaconda.org/conda-forge/nvtop)  |
 | pytorch  | 2.8.0  | BSD-3-Clause    | [anaconda.org/conda-forge/pytorch](https://anaconda.org/conda-forge/pytorch)  |
